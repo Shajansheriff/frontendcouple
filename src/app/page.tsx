@@ -38,8 +38,10 @@ export default function Home() {
                 style={{ maxWidth: "530px" }}
               >
                 <h2 className="h3 text-primary">Feb 25, 2023</h2>
+                <h1 className="display-1  mb-1 position-relative">Tahseen</h1>
+                <div className="h6 pl-lg-3">weds</div>
                 <h1 className="display-1 pb-lg-3 mb-3 position-relative">
-                  Tahseen <span className="h6">weds</span> Shajahan
+                  Shajahan
                 </h1>
                 <div className="d-flex justify-content-center justify-content-lg-start text-start mb-2">
                   <i className="bx bx-map fs-4 text-primary me-2"></i>
@@ -256,214 +258,24 @@ export default function Home() {
                       <div className="col-sm-4 mb-3 mb-sm-0">
                         <div className="h5 mb-1">10:30 – 11:30 am</div>
                         <p className="text-muted mb-2 mb-sm-4">February 27th</p>
-                        <span className="badge bg-success shadow-success fs-sm">
-                          Workshop
-                        </span>
                       </div>
                       <div className="col-sm-8">
-                        <h5>
-                          Workshop: Top trends and predictions for content that
-                          will dominate next year
-                        </h5>
-                        <p className="mb-4">
-                          Nec, malesuada quisque lorem id amet posuere. Risus,
-                          elit, vel pharetra ac, dictum lorem nisl morbi. Lorem
-                          dui id aliquam eu feugiat arcu diam.
-                        </p>
-                        <div className="row row-cols-1 row-cols-md-2 g-3">
-                          <div className="col">
-                            <div className="d-flex align-items-center">
-                              <img
-                                src="assets/img/avatar/01.jpg"
-                                className="rounded-circle"
-                                width="48"
-                                alt="Jerome Bell"
-                              />
-                              <div className="ps-3">
-                                <h6 className="fw-semibold mb-1">
-                                  Jerome Bell
-                                </h6>
-                                <p className="fs-sm text-muted mb-0">
-                                  Strategic Advisor, Shopify
-                                </p>
-                              </div>
-                            </div>
-                          </div>
-                          <div className="col">
-                            <div className="d-flex align-items-center">
-                              <img
-                                src="assets/img/avatar/06.jpg"
-                                className="rounded-circle"
-                                width="48"
-                                alt="Jenny Wilson"
-                              />
-                              <div className="ps-3">
-                                <h6 className="fw-semibold mb-1">
-                                  Jenny Wilson
-                                </h6>
-                                <p className="fs-sm text-muted mb-0">
-                                  UX Designer, Glassdoor
-                                </p>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
+                        <h5>On Stage & Guests arrivals</h5>
+                        <p className="mb-4">Gifting and guests arrivals</p>
                       </div>
                     </div>
                   </div>
                   <div className="border-bottom py-4">
                     <div className="row py-1 py-xl-3">
                       <div className="col-sm-4 mb-3 mb-sm-0">
-                        <div className="h5 mb-1">11:30 am – 13:00 pm</div>
-                        <p className="text-muted mb-2 mb-sm-4">October 15th</p>
-                        <span className="badge bg-warning shadow-warning fs-sm">
-                          Lecture
-                        </span>
+                        <div className="h5 mb-1">11:30 am – 01:30 pm</div>
+                        <p className="text-muted mb-2 mb-sm-4">February 27th</p>
                       </div>
                       <div className="col-sm-8">
-                        <h5>
-                          Product strategy: Defining your strategy, tactics,
-                          metrics &amp; roadmap
-                        </h5>
+                        <h5>Lunch</h5>
                         <p className="mb-4">
-                          Pellentesque rhoncus viverra vestibulum, purus purus
-                          quisque quisque sed. Cras vestibulum facilisis
-                          dictumst consequat. In bibendum diam nunc dignissim
-                          magna morbi mattis.
+                          Both Veg and Non-Veg options will be available
                         </p>
-                        <div className="d-flex align-items-center">
-                          <img
-                            src="assets/img/avatar/41.jpg"
-                            className="rounded-circle"
-                            width="48"
-                            alt="Marvin McKinney"
-                          />
-                          <div className="ps-3">
-                            <h6 className="fw-semibold mb-1">
-                              Marvin McKinney
-                            </h6>
-                            <p className="fs-sm text-muted mb-0">
-                              Product Manager, Google
-                            </p>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="border-bottom py-4">
-                    <div className="row py-1 py-xl-3">
-                      <div className="col-sm-4 mb-3 mb-sm-0">
-                        <div className="h5 mb-1">13:00 – 14:00 pm</div>
-                        <p className="text-muted mb-0">October 15th</p>
-                      </div>
-                      <div className="col-sm-8">
-                        <h5 className="mb-0">Interlude: attendee dinner</h5>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="border-bottom py-4">
-                    <div className="row py-1 py-xl-3">
-                      <div className="col-sm-4 mb-3 mb-sm-0">
-                        <div className="h5 mb-1">14:00 – 16:00 pm</div>
-                        <p className="text-muted mb-2 mb-sm-4">October 15th</p>
-                        <span className="badge bg-info shadow-info fs-sm">
-                          Panel
-                        </span>
-                      </div>
-                      <div className="col-sm-8">
-                        <h5>Panel: State of speed tooling</h5>
-                        <p className="mb-4">
-                          Volutpat aliquam quam eget sit. Aliquam dui
-                          pellentesque egestas duis amet malesuada eget. Ut
-                          faucibus dignissim maecenas dui tristique vestibulum
-                          facilisis dictumst consequat.
-                        </p>
-                        <div className="d-flex align-items-center">
-                          <img
-                            src="assets/img/avatar/07.jpg"
-                            className="rounded-circle"
-                            width="48"
-                            alt="Cameron Williamson"
-                          />
-                          <div className="ps-3">
-                            <h6 className="fw-semibold mb-1">
-                              Cameron Williamson
-                            </h6>
-                            <p className="fs-sm text-muted mb-0">
-                              Co-Founder, Invision LTD
-                            </p>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="border-bottom py-4">
-                    <div className="row py-1 py-xl-3">
-                      <div className="col-sm-4 mb-3 mb-sm-0">
-                        <div className="h5 mb-1">16:00 – 17:00 pm</div>
-                        <p className="text-muted mb-2 mb-sm-4">October 15th</p>
-                        <span className="badge bg-warning shadow-warning fs-sm">
-                          Lecture
-                        </span>
-                      </div>
-                      <div className="col-sm-8">
-                        <h5>
-                          Group discussion: How to align and empower cross-team
-                          success
-                        </h5>
-                        <p className="mb-4">
-                          Pellentesque rhoncus viverra vestibulum, purus purus
-                          quisque quisque sed. Cras vestibulum facilisis.
-                        </p>
-                        <div className="row row-cols-1 row-cols-md-2 g-3">
-                          <div className="col">
-                            <div className="d-flex align-items-center">
-                              <img
-                                src="assets/img/avatar/05.jpg"
-                                className="rounded-circle"
-                                width="48"
-                                alt="Albert Flores"
-                              />
-                              <div className="ps-3">
-                                <h6 className="fw-semibold mb-1">
-                                  Albert Flores
-                                </h6>
-                                <p className="fs-sm text-muted mb-0">
-                                  Principal Consultant, Twitch
-                                </p>
-                              </div>
-                            </div>
-                          </div>
-                          <div className="col">
-                            <div className="d-flex align-items-center">
-                              <img
-                                src="assets/img/avatar/03.jpg"
-                                className="rounded-circle"
-                                width="48"
-                                alt="Esther Howard"
-                              />
-                              <div className="ps-3">
-                                <h6 className="fw-semibold mb-1">
-                                  Esther Howard
-                                </h6>
-                                <p className="fs-sm text-muted mb-0">
-                                  VP of Strategy, Stretto Inc.
-                                </p>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="pt-4">
-                    <div className="row pt-1 pt-xl-3">
-                      <div className="col-sm-4 mb-3 mb-sm-0">
-                        <div className="h5 mb-1">17:00 – 19:00 pm</div>
-                        <p className="text-muted mb-0">October 15th</p>
-                      </div>
-                      <div className="col-sm-8">
-                        <h5 className="mb-0">Closing farewell party</h5>
                       </div>
                     </div>
                   </div>
