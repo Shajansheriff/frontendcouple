@@ -18,18 +18,6 @@ export default function RootLayout({
       }
     `}</Script>
 
-      <Script id="pageloading">{`
-      (function () {
-        window.onload = function () {
-          const preloader = document.querySelector(".page-loading");
-          preloader.classList.remove("active");
-          setTimeout(function () {
-            preloader.remove();
-          }, 1000);
-        };
-      })();
-    `}</Script>
-
       <body>
         {children}
         <Script src="/assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js" />

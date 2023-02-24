@@ -7,13 +7,6 @@ const inter = Inter({ subsets: ["latin"] });
 export default function Home() {
   return (
     <>
-      <div className="page-loading active">
-        <div className="page-loading-inner">
-          <div className="page-spinner"></div>
-          <span>Loading...</span>
-        </div>
-      </div>
-
       <main className="page-wrapper">
         <section className="container-fluid position-relative px-0">
           <div className="row g-0">
@@ -45,7 +38,7 @@ export default function Home() {
                 style={{ maxWidth: "530px" }}
               >
                 <h2 className="h3 text-primary">Feb 25, 2023</h2>
-                <h1 className="display-1 pb-lg-3 mb-3">
+                <h1 className="display-1 pb-lg-3 mb-3 position-relative">
                   Tahseen <span className="h6">weds</span> Shajahan
                 </h1>
                 <div className="d-flex justify-content-center justify-content-lg-start text-start mb-2">
