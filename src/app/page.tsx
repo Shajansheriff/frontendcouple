@@ -839,7 +839,7 @@ export default function Home() {
                         </span>
                       </div>
                       <div className="col-sm-8">
-                        <h5>Nikkah (Marriage)</h5>
+                        <h5>Nikah (Marriage)</h5>
                         <p className="mb-4">
                           People will be gathering and the wedding ceremony will
                           begin.
